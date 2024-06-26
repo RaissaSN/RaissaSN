@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOAS VIDASSSS !!!!
 
-<!--
-**RaissaSN/RaissaSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raissa Nunes
 
-Here are some ideas to get you started:
+-Sou estudante do ensino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Utilizarei esse espaço para compartilhamento dos meus projetos
+
+![](https://media1.tenor.com/m/ltJqZZ8T6lIAAAAC/anger-pixar.gif)
+
+-Só para mostrar um personagem que gosto mesmo!
+
+![](https://media1.tenor.com/m/SN6B7K3TtXQAAAAd/i-love-you-puppy.gif)
